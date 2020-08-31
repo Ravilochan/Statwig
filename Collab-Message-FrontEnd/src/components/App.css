@@ -1,0 +1,91 @@
+html,
+body,
+.app {
+  height: 100vh;
+  background: #eee;
+  padding: 1em;
+}
+
+/* SidePanel.js */
+.menu {
+  padding-bottom: 2em;
+}
+
+.link {
+  color: #FFF !important;
+}
+.link:hover {
+   color: #00F
+}
+
+
+
+/* Messages.js */
+.messages {
+  height: 60vh;
+  overflow-y: scroll;
+  overflow-x: scroll
+}
+
+.friends {
+  height: 50vh;
+  width: 70vh;
+  overflow-y: scroll;
+  overflow-x: scroll;
+
+}
+
+.textSize{
+  font-size: 0.3cm !important;
+}
+
+/* MessageForm.js */
+.message__form {
+  position: fixed !important;
+  bottom: 1em;
+  margin-left: 330px !important;
+  left: 0;
+  right: 1em;
+  z-index: 200;
+  width: 520px;
+  padding-left: 10px;
+}
+
+/* Message.js */
+.message__self {
+  border-left: 2px solid orange;
+  padding-left: 8px;
+  
+}
+
+.message__image {
+  padding: 1em;
+}
+
+/* ProgressBar.js */
+.progress__bar {
+  margin: 0.3em 0 0 0 !important;
+}
+
+
+.largefriends{
+  height: 47%;
+}
+
+.AlignRight
+{
+  align-items: flex-end !important;
+  padding-left: 5%;
+}
+
+.BigButton{
+  display: block;
+  width: 30%;
+  border: none;
+  background-color: #4CAF50;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  padding-right: 10%
+}

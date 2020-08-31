@@ -1,0 +1,17 @@
+/Users/surabhisinha/Documents/CMPE295A-Project/Collaborato/Collaborato/Collab-Messaging/Collab-Messaging-Backend/src/main/java/com/javasampleapproach/kafka/model/Message.java
+/Users/surabhisinha/Documents/CMPE295A-Project/Collaborato/Collaborato/Collab-Messaging/Collab-Messaging-Backend/src/main/java/com/javasampleapproach/kafka/model/ChannelMessage.java
+/Users/surabhisinha/Documents/CMPE295A-Project/Collaborato/Collaborato/Collab-Messaging/Collab-Messaging-Backend/src/main/java/com/javasampleapproach/kafka/config/KafkaProducerConfig.java
+/Users/surabhisinha/Documents/CMPE295A-Project/Collaborato/Collaborato/Collab-Messaging/Collab-Messaging-Backend/src/main/java/com/javasampleapproach/kafka/controllers/ResultSetSerializer.java
+/Users/surabhisinha/Documents/CMPE295A-Project/Collaborato/Collaborato/Collab-Messaging/Collab-Messaging-Backend/src/main/java/com/javasampleapproach/kafka/controllers/SpartanRestController.java
+/Users/surabhisinha/Documents/CMPE295A-Project/Collaborato/Collaborato/Collab-Messaging/Collab-Messaging-Backend/src/main/java/com/javasampleapproach/kafka/controllers/KafkaController.java
+/Users/surabhisinha/Documents/CMPE295A-Project/Collaborato/Collaborato/Collab-Messaging/Collab-Messaging-Backend/src/main/java/com/javasampleapproach/kafka/config/KafkaConsumerConfig.java
+/Users/surabhisinha/Documents/CMPE295A-Project/Collaborato/Collaborato/Collab-Messaging/Collab-Messaging-Backend/src/main/java/com/javasampleapproach/kafka/model/Channel.java
+/Users/surabhisinha/Documents/CMPE295A-Project/Collaborato/Collaborato/Collab-Messaging/Collab-Messaging-Backend/src/main/java/com/javasampleapproach/kafka/services/KafkaConsumer.java
+/Users/surabhisinha/Documents/CMPE295A-Project/Collaborato/Collaborato/Collab-Messaging/Collab-Messaging-Backend/src/main/java/com/javasampleapproach/kafka/services/KafkaDMConsumer.java
+/Users/surabhisinha/Documents/CMPE295A-Project/Collaborato/Collaborato/Collab-Messaging/Collab-Messaging-Backend/src/main/java/com/javasampleapproach/kafka/model/GitStuff.java
+/Users/surabhisinha/Documents/CMPE295A-Project/Collaborato/Collaborato/Collab-Messaging/Collab-Messaging-Backend/src/main/java/com/javasampleapproach/kafka/services/KafkaChannelConsumer.java
+/Users/surabhisinha/Documents/CMPE295A-Project/Collaborato/Collaborato/Collab-Messaging/Collab-Messaging-Backend/src/main/java/com/javasampleapproach/kafka/services/KafkaGitConsumer.java
+/Users/surabhisinha/Documents/CMPE295A-Project/Collaborato/Collaborato/Collab-Messaging/Collab-Messaging-Backend/src/main/java/com/javasampleapproach/kafka/services/KafkaCMConsumer.java
+/Users/surabhisinha/Documents/CMPE295A-Project/Collaborato/Collaborato/Collab-Messaging/Collab-Messaging-Backend/src/main/java/com/javasampleapproach/kafka/model/User.java
+/Users/surabhisinha/Documents/CMPE295A-Project/Collaborato/Collaborato/Collab-Messaging/Collab-Messaging-Backend/src/main/java/com/javasampleapproach/kafka/SpringKafkaSendConsumeJavaObjectApplication.java
+/Users/surabhisinha/Documents/CMPE295A-Project/Collaborato/Collaborato/Collab-Messaging/Collab-Messaging-Backend/src/main/java/com/javasampleapproach/kafka/services/KafkaProducer.java

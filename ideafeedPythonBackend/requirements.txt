@@ -1,0 +1,16 @@
+Django==1.11.17
+django-rest-framework-mongoengine==3.4.1
+djangorestframework==3.11.0
+dnspython==1.16.0
+mongoengine==0.20.0
+pymongo==3.10.1
+pytz==2020.1
+gensim==3.8.3
+nltk==3.3
+numpy==1.15.4
+django-rest-swagger==2.2.0
+sentence_transformers== 0.2.6.2
+re
+django-cors-headers==1.11.17
+
+

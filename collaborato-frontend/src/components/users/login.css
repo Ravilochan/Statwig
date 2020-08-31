@@ -1,0 +1,65 @@
+.backgroundcontainer
+{
+    height : 100% !important;
+}
+
+.bg
+{
+    min-height: 50%;
+    min-width: 50%;
+    position: fixed;
+}
+
+body{
+    height: 50%;
+}
+
+.container {
+    padding-top: 10%;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+}
+
+.centered {
+  position: fixed; /* or absolute */
+}
+
+.form-elegant .font-small {
+  font-size: 0.8rem; }
+
+.form-elegant .z-depth-1a {
+  -webkit-box-shadow: 0 2px 5px 0 rgba(55, 161, 255, 0.26), 0 4px 12px 0 rgba(121, 155, 254, 0.25);
+  box-shadow: 0 2px 5px 0 rgba(55, 161, 255, 0.26), 0 4px 12px 0 rgba(121, 155, 254, 0.25); }
+
+.form-elegant .z-depth-1-half,
+.form-elegant .btn:hover {
+  -webkit-box-shadow: 0 5px 11px 0 rgba(85, 182, 255, 0.28), 0 4px 15px 0 rgba(36, 133, 255, 0.15);
+  box-shadow: 0 5px 11px 0 rgba(85, 182, 255, 0.28), 0 4px 15px 0 rgba(36, 133, 255, 0.15); }
+
+.btn-primary {
+    background-color: steelblue;
+    color: #fff;
+    text-shadow: none;
+    border-color: steelblue;
+}
+
+hr:after {
+    background: #fff;
+    padding: 0 4px;
+    position: relative;
+    top: -13px;
+}
+
+.paddy-left{
+  padding-left: 40%;
+}
+
+h1 {
+
+    font-family: "Roboto",Arial,sans-serif;
+}
+
+h2 {
+    font-size: 30px;
+}

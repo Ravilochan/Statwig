@@ -1,0 +1,11 @@
+ideaVenv/*
+.0
+idea/__pycache__/
+ideafeedPythonBackend/ideafeedPythonBackend/__pycache__/urls.cpython-37.pyc
+ideafeedPythonBackend/ideafeedPythonBackend/__pycache__/settings.cpython-37.pyc
+ideafeedPythonBackend/idea/TrainedData/corpus
+ideafeedPythonBackend/idea/TrainedData/corpus_embeddings
+ideafeedPythonBackend/idea/TrainedData/dictionary
+ideafeedPythonBackend/idea/TrainedData/file_docs
+ideafeedPythonBackend/idea/TrainedData/sims
+ideafeedPythonBackend/idea/TrainedData/tf_idf
